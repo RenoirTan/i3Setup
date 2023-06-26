@@ -1,5 +1,7 @@
 # i3Setup
 
+![Screenshot](doc/neofetch.png)
+
 Made my own i3 Setup.
 
 # Packages
